@@ -1,0 +1,9 @@
+<html>
+  <head>
+     <title>Artiklen med "da" meta html meta tag, commonLocaleSearchPhrase</title>
+     <meta http-equiv="content-language" content="da">
+  </head>
+  <body>
+    <p>Artiklen forventes at blive parset som dansk</p>
+  </body>
+</html>
